@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// 복사 생성자, 복사 대입 연산자
+
 class Test
 {
 	int num1;

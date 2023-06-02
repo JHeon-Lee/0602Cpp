@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// 이동 생성자
+
 class Test
 {
 public:
