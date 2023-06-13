@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// 변환 생성자
+// 변환 생성자 --> 매개변수가 하나인 생성자
 
 class Fraction
 {
